@@ -7,3 +7,5 @@
 | 3 | [MCC Indreni](https://github.com/mccindreni) | MCC Indreni | Full Stack
 | 4 | [Aadarsha Neupane](https://github.com/aadarshaneupane) |
 | 5 | [Shraddha Subedi](https://github.com/subedisdha7)  | Birendra Multiple Campus         | Video editing, Programming                                                  
+| 6 | [Bipu Ojha](https://github.com/Bipuojha1) | Forbes College  | Cyber Security, Networking and System Admin |
+| 7 | [Jonas Garcia](https://github.com/jonasaky) | Wizeline | Full Stack, Node, React, Vue, Angular |
