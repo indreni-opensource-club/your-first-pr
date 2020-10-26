@@ -11,3 +11,4 @@
 | 7 | [Jonas Garcia](https://github.com/jonasaky) | Wizeline | Full Stack, Node, React, Vue, Angular |
 | 8 | [Shahbaz Alam](https://github.com/shahbazalam07)|BIT Mesra| Mern stack,Java,C++ |
 | 9 | [Rajiv Aryal](https://github.com/Aryal-rajiv) | BMC | Web developer, Graphics Designer, Youtuber , Networking |
+| 10 | [Rahul Singh](https://github.com/rahul2240) | JSS | Web developer, ML Engineer, Youtuber , Music |
