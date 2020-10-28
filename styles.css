@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
 body {
-    background-color: powderblue;
+    background-color: rgb(143, 255, 152);
+    font-family: 'ubuntu',sans-serif;
   }
   h1 {
-    color: blue;
+    color: rgb(131, 7, 7);
+    text-align: center;
+    border: 2px solid green;
+    padding: 0.2em;
+    border-top-left-radius: 0.7em;
+    border-bottom-right-radius: 0.7em;
   }
   p {
-    color: red;
+    color: rgb(73, 7, 90);
+    text-align: justify;
   }
