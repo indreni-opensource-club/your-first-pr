@@ -16,3 +16,4 @@
 | 10 | [Viral Luke](https://github.com/ViraldAnarchist) | JSSATEN | Web developer, Graphics Designer |
 | 10 | [Rahul Singh](https://github.com/rahul2240) | JSS | Web developer, ML Engineer, Youtuber , Music |
 | 11 | [Anil Adhikari](https://github.com/Anil-Adh33) | Indreni College | Coding |
+| 12 | [Tech Stuffs](htts://github/com/techstuffs32) | Tech Stuffs Channel | Development |
