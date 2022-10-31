@@ -17,3 +17,4 @@
 | 10 | [Rahul Singh](https://github.com/rahul2240) | JSS | Web developer, ML Engineer, Youtuber , Music |
 | 11 | [Anil Adhikari](https://github.com/Anil-Adh33) | Indreni College | Coding |
 | 12 | [Tech Stuffs](htts://github/com/techstuffs32) | Tech Stuffs Channel | Development |
+| 13 | [Niru Mishra](https://github/com/nirumis11) | Tech Stuffs Channel | Development |
